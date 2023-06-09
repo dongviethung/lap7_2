@@ -1,0 +1,46 @@
+   <style>
+   form{
+    width:40em;
+	background-image: url("anhnen.jpg");
+	}
+	label {
+	float: left;
+	text-align: center;
+	width:10em;
+	margin-right:1em;
+	}
+	input{
+	width:50%
+	}
+	.textinput{
+	margin:10px;
+	}
+	.radioput fieldset{
+	border:none;
+	}
+	.radioinput legend{
+	float: left;
+	text-align: center;
+	width:9em;
+	}
+	.radioinput input{
+	width:2em;
+	}
+	.radioinput label{
+	float:none;
+	text-align: center;
+	}
+	.buttoninput input{
+	text-align: center;
+	}
+	buttoninput{
+	width:auto
+	}
+section p{
+			margin-top: 20px;
+			margin-bottom:20px;
+			text-align: center;
+       }
+</style>
+	
+	
